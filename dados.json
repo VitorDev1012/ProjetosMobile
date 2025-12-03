@@ -1,0 +1,101 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Arroz Integral Orgânico",
+      "preco": 18.90,
+      "categoria": "Cereais",
+      "descricao": "Arroz integral cultivado sem agrotóxicos",
+      "imagem": "🌾"
+    },
+    {
+      "id": 2,
+      "nome": "Feijão Preto",
+      "preco": 12.90,
+      "categoria": "Cereais",
+      "descricao": "Feijão preto tipo 1, selecionado",
+      "imagem": "⚫"
+    },
+    {
+      "id": 3,
+      "nome": "Lentilha",
+      "preco": 24.90,
+      "categoria": "Cereais",
+      "descricao": "Lentilha importada, rica em proteínas",
+      "imagem": "🟤"
+    },
+    {
+      "id": 4,
+      "nome": "Damasco Seco",
+      "preco": 59.90,
+      "categoria": "Frutas Secas",
+      "descricao": "Damasco turco sem açúcar adicionado",
+      "imagem": "🟠"
+    },
+    {
+      "id": 5,
+      "nome": "Tâmara Medjool",
+      "preco": 69.90,
+      "categoria": "Frutas Secas",
+      "descricao": "Tâmaras premium sem caroço",
+      "imagem": "🟫"
+    },
+    {
+      "id": 6,
+      "nome": "Uva Passa Escura",
+      "preco": 34.90,
+      "categoria": "Frutas Secas",
+      "descricao": "Uva passa sem sementes",
+      "imagem": "🍇"
+    },
+    {
+      "id": 7,
+      "nome": "Castanha de Caju",
+      "preco": 79.90,
+      "categoria": "Oleaginosas",
+      "descricao": "Castanha de caju torrada sem sal",
+      "imagem": "🥜"
+    },
+    {
+      "id": 8,
+      "nome": "Amêndoas",
+      "preco": 99.90,
+      "categoria": "Oleaginosas",
+      "descricao": "Amêndoas sem casca",
+      "imagem": "🌰"
+    },
+    {
+      "id": 9,
+      "nome": "Farinha de Trigo Integral",
+      "preco": 14.90,
+      "categoria": "Farinhas",
+      "descricao": "Farinha de trigo integral orgânica",
+      "imagem": "🌾"
+    },
+    {
+      "id": 10,
+      "nome": "Aveia em Flocos",
+      "preco": 18.90,
+      "categoria": "Farinhas",
+      "descricao": "Aveia em flocos finos",
+      "imagem": "🥣"
+    },
+    {
+      "id": 11,
+      "nome": "Cúrcuma em Pó",
+      "preco": 59.90,
+      "categoria": "Temperos",
+      "descricao": "Açafrão da terra moído",
+      "imagem": "🟡"
+    },
+    {
+      "id": 12,
+      "nome": "Chá Verde",
+      "preco": 49.90,
+      "categoria": "Chás",
+      "descricao": "Chá verde em folhas",
+      "imagem": "🍵"
+    }
+  ],
+  "pedidos": []
+}
